@@ -10,3 +10,4 @@ When a puzzle get solved, the system give a start. This is a summary of the star
 | ------------- |:-------------:| -----:|
 | Day 1: The Tyranny of the Rocket Equation | :star: | :star: |
 | Day 2: 1202 Program Alarm | :star: | :star: |
+| Day 3: Crossed Wires |  |  |
